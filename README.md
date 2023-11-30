@@ -6,7 +6,7 @@ Welcome to the Text-Based Adventure Game repository! This project is a classic t
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/text-based-adventure-game.git
+   git clone https://github.com/manjeet7381/text-based-adventure-game.git
    cd text-based-adventure-game
    ```
 
